@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+C:\Users\esrom\Documents\Technologies de l'information\Programmation orientée objet\ProjetLabyrinthe\ProjetLabyrinthe\.metadata\.plugins\org.eclipse.jdt.core
